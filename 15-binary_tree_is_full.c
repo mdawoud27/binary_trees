@@ -20,6 +20,7 @@ int binary_tree_is_full(const binary_tree_t *tree)
 
 	if (tree->right)
 		right_nodes = binary_tree_is_full(tree->right);
+	printf("%d\t%d\n", left_nodes, right_nodes);
 
 	return (left_nodes && right_nodes);
 }

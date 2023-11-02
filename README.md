@@ -1,10 +1,6 @@
 # Binary Trees
 
-This project is about binary trees and includes various functions to work with binary trees, such as finding the height, depth, and size of a tree, checking if a tree is balanced, and more.
-
-## Introduction
-
-This project is focused on implementing various operations and functionalities related to binary trees in the C programming language. Binary trees are hierarchical data structures that consist of nodes connected by edges. Each node in a binary tree has at most two children, often referred to as the left child and the right child.
+This project is focused on implementing various operations and functionalities related to binary trees in the C programming language. Binary trees are hierarchical data structures that consist of nodes connected by edges. Each node in a binary tree has at most two children, often referred to as the left child and the right child. This repo includes various functions to work with binary trees, such as finding the height, depth, and size of a tree, checking if a tree is balanced, and more.
 
 ## General Topics
 - What is a binary tree.
